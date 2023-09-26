@@ -1,0 +1,12 @@
+asgiref==3.7.2
+bidict==0.22.1
+Django==4.2.5
+djangorestframework==3.14.0
+h11==0.14.0
+python-engineio==4.7.1
+python-socketio==5.9.0
+pytz==2023.3.post1
+simple-websocket==0.10.1
+sqlparse==0.4.4
+typing_extensions==4.8.0
+wsproto==1.2.0
